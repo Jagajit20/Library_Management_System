@@ -1,0 +1,4 @@
+Time,100,A
+Life,400,E
+jio,761,rel
+koop,923,ooppp
